@@ -28,3 +28,11 @@ Follow these steps to set up the project on your local machine:
    ```bash
    git clone https://github.com/Omveer99/Object-Detection-Classification.git
    cd Object-Detection-Classification
+2- Set up Environment 
+ ```bash
+python -m venv venv
+source venv/bin/activate 
+venv\Scripts\activate
+
+   pip install -r requirements.txt
+   
